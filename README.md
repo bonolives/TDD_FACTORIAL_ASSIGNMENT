@@ -3,5 +3,7 @@
 Remember test last means you write your factorial function then add the tests!
 
 MEMBERS
-RICHARD KWIZERA
-OLIVER BALYAMA
+
+1. RICHARD KWIZERA
+
+2. OLIVER BALYAMA
