@@ -25,3 +25,10 @@ import math
 """ function"""
 var_1 = int(input("Enter the number: "))
 print(math.factorial(var_1))
+
+'''
+One option of Defining a test function 
+def test_one():
+    result = factorial_one(5)
+    assert result == 120
+'''
