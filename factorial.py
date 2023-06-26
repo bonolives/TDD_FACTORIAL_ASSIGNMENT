@@ -10,5 +10,12 @@ def factorial_one(var_1):
         answer = answer * i
     return answer 
 
+# Defining function using recursion approach.
+def factorial_two(var_2):
+    if var_2 == 0:
+       return 1
+    else:
+        return var_2 * factorial_two(var_2 - 1)
+    
 
 
