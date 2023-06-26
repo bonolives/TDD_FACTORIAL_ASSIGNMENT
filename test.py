@@ -13,7 +13,10 @@ def test_one():
 """
 
 # defining a test function to test the recursion approach.
-
-
+'''
 def test_two():
     assert factorial_two(5) == 115
+'''
+def test_two():
+    assert factorial_two(5) == 120
+    
